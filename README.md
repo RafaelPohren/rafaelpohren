@@ -1,5 +1,5 @@
 <h3 align="left">Olá! Eu sou o Rafael 👋</h3>
-- 🌱 Atualmente estou estudando HTML/CSS/JS
+- 🌱 Atualmente estou estudando HTML/CSS/JS <br>
 - 👯 Procuro me tornar um desenvolvedor FullStack
 
 ###
