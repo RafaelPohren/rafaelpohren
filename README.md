@@ -30,6 +30,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/RAFAELPOHREN/RAFAELPOHREN/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/rafaelpohren/rafaelpohren/blob/output/snake.svg" alt="Snake animation" />
 
 ###
